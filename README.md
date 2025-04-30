@@ -5,6 +5,12 @@ Link to the  [course](https://codebasics.io/bootcamps/data-analytics-bootcamp-wi
 Link to the [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDM2OWExN2MtNTMzZC00ZjJhLTgwZjMtNDM1ZDkyY2QyYTU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 )
 
+
+
+https://github.com/user-attachments/assets/a1e46a10-3177-4602-b71f-51f9f47975fa
+
+
+
 ## Problem statement
 
 My dashboard tackles a key business challenge faced by a rapidly expanding consumer electronics company, Atliq. Their dependence on Excel for analytics led to performance bottlenecks, no real-time insights, and a major revenue loss in the Latin American market. This dashboard transitions them to a scalable, interactive solution, empowering faster, data-driven decisions.
